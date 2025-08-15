@@ -1,0 +1,28 @@
+bootcamp:
+  - devops: codigo
+    mes: agosto
+  - area: software
+    mes: septiembre
+
+hobbies:
+  deporte: frisbee
+  musica: metal
+  viajar: 'por el peru'
+
+lenguajes: 
+  - python
+  - javascript
+  - c++
+
+#lista de dias de clase
+dias_clase: {martes:'7:30pm', jueves:'7:30pm', sabado:'9:00am'}
+
+comida_favorita:
+  - asiatica:
+    - makis
+    - sushi
+  - peruana:
+    - ceviche
+    - italiana
+    - india
+
